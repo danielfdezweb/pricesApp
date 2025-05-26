@@ -1,0 +1,8 @@
+C:\Users\Daniel\Desktop\prices\src\main\java\com\danielfdez\prices\application\usecase\GetApplicablePriceUseCase.java
+C:\Users\Daniel\Desktop\prices\src\main\java\com\danielfdez\prices\domain\model\Price.java
+C:\Users\Daniel\Desktop\prices\src\main\java\com\danielfdez\prices\domain\repository\PriceRepository.java
+C:\Users\Daniel\Desktop\prices\src\main\java\com\danielfdez\prices\infrastructure\controller\PriceController.java
+C:\Users\Daniel\Desktop\prices\src\main\java\com\danielfdez\prices\infrastructure\persistence\JpaPriceRepository.java
+C:\Users\Daniel\Desktop\prices\src\main\java\com\danielfdez\prices\infrastructure\persistence\PriceEntity.java
+C:\Users\Daniel\Desktop\prices\src\main\java\com\danielfdez\prices\infrastructure\persistence\SpringDataPriceRepository.java
+C:\Users\Daniel\Desktop\prices\src\main\java\com\danielfdez\prices\PricesApplication.java
