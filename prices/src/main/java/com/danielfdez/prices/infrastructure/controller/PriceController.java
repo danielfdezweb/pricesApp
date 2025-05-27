@@ -18,7 +18,7 @@ public class PriceController {
     }
 
     @GetMapping
-    public Price getPrice(@RequestParam Long productId,consultar
+    public Price getPrice(@RequestParam Long productId,
                           @RequestParam Long brandId,
                           @RequestParam @DateTimeFormat(iso = DateTimeFormat.ISO.DATE_TIME) LocalDateTime date) {
         return useCase.execute(productId, brandId, date);
