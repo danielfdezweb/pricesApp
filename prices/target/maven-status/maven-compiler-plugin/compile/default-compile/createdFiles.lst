@@ -1,0 +1,10 @@
+com\danielfdez\prices\infrastructure\controller\PriceController.class
+com\danielfdez\prices\infrastructure\persistence\JpaPriceRepository.class
+com\danielfdez\prices\application\usecase\GetApplicablePriceUseCase.class
+com\danielfdez\prices\infrastructure\controller\GlobalExceptionHandler.class
+com\danielfdez\prices\domain\exception\PriceNotFoundException.class
+com\danielfdez\prices\domain\repository\PriceRepository.class
+com\danielfdez\prices\infrastructure\persistence\SpringDataPriceRepository.class
+com\danielfdez\prices\PricesApplication.class
+com\danielfdez\prices\infrastructure\persistence\PriceEntity.class
+com\danielfdez\prices\domain\model\Price.class
