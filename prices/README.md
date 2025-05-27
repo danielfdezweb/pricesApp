@@ -1,7 +1,7 @@
 # 🛍️ Price Selector Service – Spring Boot API
 
 Welcome!  
-This project is a Spring Boot RESTful API designed to retrieve the applicable product price based on a given application date, product ID, and brand ID. It simulates the backend pricing logic of a retail platform (e.g., ZARA) based on predefined pricing rules.
+This project is a Spring Boot RESTful API designed to retrieve the applicable product price based on a given  date, product ID, and brand ID. It simulates the backend pricing logic of a retail platform based on predefined pricing rules.
 
 ---
 
@@ -10,7 +10,7 @@ This project is a Spring Boot RESTful API designed to retrieve the applicable pr
 The API exposes a single REST endpoint that:
 
 - Accepts as input:
-  - Application date (date and time)
+  - date (date and time)
   - Product ID
   - Brand ID
 
